@@ -8,7 +8,7 @@
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. 
 In particular, all patients here are females at least 21 years old (minimum age in the dataset).
 
-## Observations
+## Methods
 The dataset have nine columns(variables/attributes) in which there are eight independent variables (Pregnancies,Glucose,Blood Pressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age) and one dependent variable (Outcome).
 
 - In the Dataset the data is unbalanced. The number of non-diabetic (outcome = 0) is 500 the number of diabetic (outcome = 1) is 268. Some the oversampling techniques like SMOTE (Synthetic Minority Over-sampling Technique) can be used for further analysis.

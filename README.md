@@ -27,6 +27,6 @@ The dataset have nine columns(variables/attributes).
 - numpy
 - seaborn
 - matplotlib.pyplot
-- sklearn
+- stats
   
 📌 From the plots, can determine women having high Glucose levels and BMI levels tend to have Diabetes.

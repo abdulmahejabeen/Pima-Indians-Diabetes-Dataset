@@ -11,7 +11,7 @@ In particular, all patients here are females at least 21 years old (minimum age 
 ## Methods
 The dataset have nine columns(variables/attributes).
 
-📌 Independent attributes are Pregnancies,Glucose,Blood Pressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age.
+📌 Independent attributes are Pregnancies, Glucose, Blood Pressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age.
 
 📌 Dependent variable is Outcome.
 

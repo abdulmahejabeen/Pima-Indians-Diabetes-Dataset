@@ -19,6 +19,7 @@ The dataset have nine columns(variables/attributes).
 
 ### Handling missing/null values
 📌 The missing values '0' is replaced by the median of the variables for the analysis. As there are outliers in the data median is more robust than mean.
+
 📌 Outliers below 1% only those rows are removed from the dataset.
 
 ## Libraries used in this analysis
